@@ -1,6 +1,6 @@
 # Fine-grained-Attribution
 
-Source code for the ACL 2024 Findings paper "Learning Fine-Grained Grounded Citations for Attributed Large Language Models" (More details will be updated soon)
+Source code for the ACL 2024 Findings paper "Learning Fine-Grained Grounded Citations for Attributed Large Language Models"
 ## Requirements
 The required Python packages are listed in [requirements.txt](https://github.com/LuckyyySTA/Fine-grained-Attribution/blob/main/requirements.txt). You can create a new conda environment, then run the following command to install them.
 
